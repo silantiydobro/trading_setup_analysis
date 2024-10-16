@@ -54,4 +54,4 @@
   
 ## Контакти
 - [LinkedIn профіль](https://www.linkedin.com/in/hlib-inozemtsev-670ba8124/)
-- [GitHub репозиторій]()
+- [GitHub репозиторій](https://github.com/silantiydobro/trading_setup_analysis/tree/main)
