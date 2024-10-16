@@ -53,7 +53,7 @@
 
 ## Файли
 - **data/backtest_silver_bullet.csv**: Основний файл з даними про всі угоди.
-- **dashboard/screenshot_1.jpg**: Скріншот.
+- **dashboard/screenshot_1.PNG**: Скріншот дашборду.
 - **(https://youtu.be/qxtFSoRdmjc)**: Відеоогляд дашборду.
 
 ## Висновки
